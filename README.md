@@ -7,6 +7,19 @@ I build practical web applications, research tools, and AI-assisted development 
 
 [**Email me**](mailto:coden607@gmail.com) · [**GitHub projects**](https://github.com/coden607?tab=repositories)
 
+## Live demos
+
+| Demo | What you can try |
+| --- | --- |
+| [PhoneWeigh](https://phoneweigh-ecru.vercel.app) | Phone-browser scale PWA with calibration and a verification ledger |
+| [NarcoGuard](https://www.narcoguard.app) | Needs-first resource search, Angel AI, emergency steps (demo and research concept) |
+| [AirBear](https://pwa4-coden607.vercel.app) | Solar rideshare and mobile-bodega PWA with live map and shop |
+| [NextLaw607](https://nextlaw607-tau.vercel.app) | New York criminal-law research and drafting terminal |
+| [Parallax Resolve](https://parallax-resolve.vercel.app) | Conflict-reasoning tools: check-ins, journal, decision matrix |
+| [CannaGenetics](https://cannagenetics.vercel.app) | Informational genetics catalog with lineage and compare tools (18+) |
+| [AI Vocals Studio](https://ai-vocals-studio.vercel.app) | Hosted front door for authorized voice-over generation |
+| [Cortese Digital sample](https://busyline-sample.vercel.app) | Concept preview of a restaurant missed-call and takeout page (fictional pizzeria) |
+
 ## Selected public projects
 
 | Project | Stack / engineering focus | What to inspect |
@@ -21,8 +34,8 @@ I build practical web applications, research tools, and AI-assisted development 
 
 ## Other work
 
-- **AirBear:** solar-assisted micromobility / rickshaw PWA and related electronics/controller integration, with rider/driver product flows. Active source is private; implementation evidence available on request.
-- **ContinuityOS / PWA4:** local-first agent routing, model switching, checkpoints, skills, and provider integration. Canonical engineering tree is private; architecture can be discussed without sharing secrets. Private portions are not represented here as publicly reviewable source code.
+- **AirBear:** solar-assisted micromobility / rickshaw PWA and related electronics/controller integration, with rider/driver product flows. [Live demo](https://pwa4-coden607.vercel.app). Source (`pwa4`) is private; implementation evidence available on request.
+- **ContinuityOS:** local-first agent routing, model switching, checkpoints, skills, and provider integration. Canonical engineering tree is private; architecture can be discussed without sharing secrets. Private portions are not represented here as publicly reviewable source code.
 - **Hardware and systems:** Linux desktop and VPS environments, Bash, Windows/WSL, Termux, mobile shell scripting, Git/GitHub workflows, deployment troubleshooting, network configuration, and prototyping/interfacing.
 
 ## Engineering approach
